@@ -1,0 +1,9 @@
+inicioclase
+iniciofuncion
+declara i entero
+coloca i = 1
+while i < 10
+coloca i = i + 1
+finwhile
+finfuncion
+finclase

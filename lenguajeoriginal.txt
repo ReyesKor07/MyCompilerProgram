@@ -1,0 +1,36 @@
+inicioclase
+iniciofuncion
+declara x entero
+declara psbii cadena
+declara elbit bite
+coloca x = 7
+coloca psbii = "isc"
+coloca inco - 12
+DoInicio
+cerrardowhile x < 3
+if x <= 10
+elseif x > 20
+cerrardowhile x <- 5
+else
+finif
+coloca inco - 8
+for x de 1 al 5 paso 1
+finfor
+while x < 20
+finwhile
+cerrardowhile x <- 10
+coloca inco - 1
+switch x
+case 1
+case 2
+finswitch
+cerrardowhile x <- 8
+writeline
+finfuncion
+iniciofuncion
+declara incorrect enter
+coloca inco - 2
+DoInicioo
+cerrardowhile x <- 3
+finfuncion
+finclase

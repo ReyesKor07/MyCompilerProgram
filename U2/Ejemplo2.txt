@@ -1,0 +1,22 @@
+declara valor1 entero
+declara valor2 entero
+declara resultados entero
+declara resultador entero
+declara resultadom entero
+declara resultadod entero
+coloca resultados = 0
+coloca resultador = 0
+coloca resultadom = 0
+coloca resultadod = 0
+coloca valor1 = 15
+coloca valor2 = 5
+coloca resultados = valor1 + valor2
+coloca resultador = valor1 - valor2
+coloca resultadom = valor1 * valor2
+coloca resultadod = valor1 / valor2
+imprime valor1
+imprime valor2
+imprime resultados
+imprime resultador
+imprime resultadom
+imprime resultadod

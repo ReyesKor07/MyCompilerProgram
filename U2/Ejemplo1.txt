@@ -1,0 +1,24 @@
+inicioclase
+declara variable entero
+declara inicioclase entero
+declara iniciofuncion entero
+declara finfor entero
+while variable < 10
+finwhile
+declara valor1
+declara circulo entero
+coloca 
+coloca valor1 = 6
+coloca valor1 = a
+coloca valor1 = 5 + 5
+coloca valor1 = 2 0 2
+coloca BaseII = 11
+iniciofuncion
+declara x entero
+declara nombre cadena
+declara respuesta booleano
+coloca x = 2000
+coloca nombre = "reyes"
+coloca respuesta = truw
+declara  booleano
+declara libre

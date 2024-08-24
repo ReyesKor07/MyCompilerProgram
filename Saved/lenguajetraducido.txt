@@ -1,0 +1,34 @@
+Public Class
+Private Sub Form1_Load(sender As Object, e As EventArgs)Handles MyBase.Load
+Dim x As Integer
+Dim cad As String
+Dim bu As Boolean
+Dim elbit As Byte
+x=7
+cad="hola"
+bu=false
+elbit=1
+Do
+Loop While x < 3
+If x <= 10
+Else if x > 20
+Else
+End if
+For x = 1 To 5 Step 1
+Next
+while x < 20
+End While
+Select x
+Case 1
+Case 2
+End Select
+msgBox()
+Console.WriteLine()
+End Sub
+Private Sub Form1_Load(sender As Object, e As EventArgs)Handles MyBase.Load
+no se encuentra traduccion
+no se encuentra traduccion
+no se encuentra traduccion
+no se encuentra traduccion
+End Sub
+End Class

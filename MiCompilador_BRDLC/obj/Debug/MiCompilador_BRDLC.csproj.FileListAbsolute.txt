@@ -1,0 +1,41 @@
+D:\OneDrive - Universidad Autónoma de Tamaulipas\Semestre 9\Programación de Sistemas de Base II\U2 - Prácticas\MiCompilador_BRDLC\MiCompilador_BRDLC\bin\Debug\MiCompilador_BRDLC.exe.config
+D:\OneDrive - Universidad Autónoma de Tamaulipas\Semestre 9\Programación de Sistemas de Base II\U2 - Prácticas\MiCompilador_BRDLC\MiCompilador_BRDLC\bin\Debug\MiCompilador_BRDLC.exe
+D:\OneDrive - Universidad Autónoma de Tamaulipas\Semestre 9\Programación de Sistemas de Base II\U2 - Prácticas\MiCompilador_BRDLC\MiCompilador_BRDLC\bin\Debug\MiCompilador_BRDLC.pdb
+D:\OneDrive - Universidad Autónoma de Tamaulipas\Semestre 9\Programación de Sistemas de Base II\U2 - Prácticas\MiCompilador_BRDLC\MiCompilador_BRDLC\obj\Debug\MiCompilador_BRDLC.csproj.AssemblyReference.cache
+D:\OneDrive - Universidad Autónoma de Tamaulipas\Semestre 9\Programación de Sistemas de Base II\U2 - Prácticas\MiCompilador_BRDLC\MiCompilador_BRDLC\obj\Debug\MiCompilador_BRDLC.csproj.SuggestedBindingRedirects.cache
+D:\OneDrive - Universidad Autónoma de Tamaulipas\Semestre 9\Programación de Sistemas de Base II\U2 - Prácticas\MiCompilador_BRDLC\MiCompilador_BRDLC\obj\Debug\MiCompilador_BRDLC.Form1.resources
+D:\OneDrive - Universidad Autónoma de Tamaulipas\Semestre 9\Programación de Sistemas de Base II\U2 - Prácticas\MiCompilador_BRDLC\MiCompilador_BRDLC\obj\Debug\MiCompilador_BRDLC.Properties.Resources.resources
+D:\OneDrive - Universidad Autónoma de Tamaulipas\Semestre 9\Programación de Sistemas de Base II\U2 - Prácticas\MiCompilador_BRDLC\MiCompilador_BRDLC\obj\Debug\MiCompilador_BRDLC.csproj.GenerateResource.cache
+D:\OneDrive - Universidad Autónoma de Tamaulipas\Semestre 9\Programación de Sistemas de Base II\U2 - Prácticas\MiCompilador_BRDLC\MiCompilador_BRDLC\obj\Debug\MiCompilador_BRDLC.csproj.CoreCompileInputs.cache
+D:\OneDrive - Universidad Autónoma de Tamaulipas\Semestre 9\Programación de Sistemas de Base II\U2 - Prácticas\MiCompilador_BRDLC\MiCompilador_BRDLC\obj\Debug\MiCompilador_BRDLC.exe
+D:\OneDrive - Universidad Autónoma de Tamaulipas\Semestre 9\Programación de Sistemas de Base II\U2 - Prácticas\MiCompilador_BRDLC\MiCompilador_BRDLC\obj\Debug\MiCompilador_BRDLC.pdb
+C:\Users\Admin\source\repos\MiCompilador_PSBII\MiCompilador_BRDLC\bin\Debug\MiCompilador_BRDLC.exe.config
+C:\Users\Admin\source\repos\MiCompilador_PSBII\MiCompilador_BRDLC\bin\Debug\MiCompilador_BRDLC.exe
+C:\Users\Admin\source\repos\MiCompilador_PSBII\MiCompilador_BRDLC\bin\Debug\MiCompilador_BRDLC.pdb
+C:\Users\Admin\source\repos\MiCompilador_PSBII\MiCompilador_BRDLC\obj\Debug\MiCompilador_BRDLC.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\MiCompilador_PSBII\MiCompilador_BRDLC\obj\Debug\MiCompilador_BRDLC.Form1.resources
+C:\Users\Admin\source\repos\MiCompilador_PSBII\MiCompilador_BRDLC\obj\Debug\MiCompilador_BRDLC.Properties.Resources.resources
+C:\Users\Admin\source\repos\MiCompilador_PSBII\MiCompilador_BRDLC\obj\Debug\MiCompilador_BRDLC.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\MiCompilador_PSBII\MiCompilador_BRDLC\obj\Debug\MiCompilador_BRDLC.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MiCompilador_PSBII\MiCompilador_BRDLC\obj\Debug\MiCompilador_BRDLC.exe
+C:\Users\Admin\source\repos\MiCompilador_PSBII\MiCompilador_BRDLC\obj\Debug\MiCompilador_BRDLC.pdb
+C:\MICOMPILADOR_PSBII\MiCompilador_BRDLC\bin\Debug\MiCompilador_BRDLC.exe.config
+C:\MICOMPILADOR_PSBII\MiCompilador_BRDLC\bin\Debug\MiCompilador_BRDLC.exe
+C:\MICOMPILADOR_PSBII\MiCompilador_BRDLC\bin\Debug\MiCompilador_BRDLC.pdb
+C:\MICOMPILADOR_PSBII\MiCompilador_BRDLC\obj\Debug\MiCompilador_BRDLC.csproj.AssemblyReference.cache
+C:\MICOMPILADOR_PSBII\MiCompilador_BRDLC\obj\Debug\MiCompilador_BRDLC.Properties.Resources.resources
+C:\MICOMPILADOR_PSBII\MiCompilador_BRDLC\obj\Debug\MiCompilador_BRDLC.csproj.GenerateResource.cache
+C:\MICOMPILADOR_PSBII\MiCompilador_BRDLC\obj\Debug\MiCompilador_BRDLC.csproj.CoreCompileInputs.cache
+C:\MICOMPILADOR_PSBII\MiCompilador_BRDLC\obj\Debug\MiCompilador_BRDLC.exe
+C:\MICOMPILADOR_PSBII\MiCompilador_BRDLC\obj\Debug\MiCompilador_BRDLC.pdb
+C:\MICOMPILADOR_PSBII\MiCompilador_BRDLC\obj\Debug\micompilador_ACC.Form1.resources
+C:\MyCompilerProgram\MiCompilador_BRDLC\bin\Debug\MiCompilador_BRDLC.exe.config
+C:\MyCompilerProgram\MiCompilador_BRDLC\bin\Debug\MiCompilador_BRDLC.exe
+C:\MyCompilerProgram\MiCompilador_BRDLC\bin\Debug\MiCompilador_BRDLC.pdb
+C:\MyCompilerProgram\MiCompilador_BRDLC\obj\Debug\MiCompilador_BRDLC.csproj.AssemblyReference.cache
+C:\MyCompilerProgram\MiCompilador_BRDLC\obj\Debug\micompilador_ACC.Form1.resources
+C:\MyCompilerProgram\MiCompilador_BRDLC\obj\Debug\MiCompilador_BRDLC.Properties.Resources.resources
+C:\MyCompilerProgram\MiCompilador_BRDLC\obj\Debug\MiCompilador_BRDLC.csproj.GenerateResource.cache
+C:\MyCompilerProgram\MiCompilador_BRDLC\obj\Debug\MiCompilador_BRDLC.csproj.CoreCompileInputs.cache
+C:\MyCompilerProgram\MiCompilador_BRDLC\obj\Debug\MiCompilador_BRDLC.exe
+C:\MyCompilerProgram\MiCompilador_BRDLC\obj\Debug\MiCompilador_BRDLC.pdb

@@ -1,0 +1,34 @@
+inicioclase
+iniciofuncion
+declara x entero
+declara cad cadena
+declara bu booleano
+declara elbit bite
+asigna x = 7
+asigna cad = "hola"
+asigna bu = false
+asigna elbit = 1
+DoInicio
+cerrardowhile x < 3
+if x <= 10
+elseif x > 20
+else
+finif
+for x de 1 al 5 paso 1
+finfor
+while x < 20
+finwhile
+switch x
+case 1
+case 2
+finswitch
+messagebox
+writeline
+finfuncion
+iniciofuncion
+declara incorrect enter
+asigna inco - 2
+DoInicioo
+cerrardowhile x <- 3
+finfuncion
+finclase

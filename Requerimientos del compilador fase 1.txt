@@ -1,0 +1,22 @@
+Requerimientos del compilador fase 1 - compilación (traducción)
+-Punto 1-
+Interfaz: 
++1.- Archivo -> .txt
++2.- Lineas traducidas y no traducidas -> que funcione
++3.- Enumerar las lineas en el listbox
++4.- Si seleciono una linea del listbox ya sea del LenguajeOriginal o LenguajeTraducido, que se subraye en ambas.
+5.- Ayuda -> se abre un archivo PDF o WORD sobre las palabras reservadas (función, definición y sintaxis).
++6.- Acerca de -> El nombre del desarrollador, nombre de la materia, noveno semestre, UAMRR, Logo UAMRR.
+
+-Punto 2-
+Ejemplos:
++1.- Tener un ejemplo de lineas no traducidas (con error).
++2.- Tener un ejemplo de lineas sin error.
+3.- Sentencia IF traducida.
+4.- Sentencia FOR traducida.
+5.- Sentencia SWITCH traducida.
+6.- Sentencia WHILE traducida.
+7.- Sentencia DOWHILE traducida.
+8.- WriteLine
+9.- AYUDA
+10.- SELLO ()

@@ -1,0 +1,24 @@
+Public Class
+Dim variable As entero
+No se logro encontrar traduccion
+No se logro encontrar traduccion
+No se logro encontrar traduccion
+While variable < 10
+End While
+No se logro encontrar traduccion
+Dim circulo As entero
+No se logro encontrar traduccion
+No se logro encontrar traduccion
+No se logro encontrar traduccion
+No se logro encontrar traduccion
+No se logro encontrar traduccion
+No se logro encontrar traduccion
+Private Sub Form1_Load(sender As Object, e As EventArgs)Handles MyBase.Load
+Dim x As entero
+Dim nombre As cadena
+Dim respuesta As booleano
+x = 2000
+nombre = "reyes"
+No se logro encontrar traduccion
+No se logro encontrar traduccion
+No se logro encontrar traduccion

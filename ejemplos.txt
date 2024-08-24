@@ -1,0 +1,84 @@
+Ejemplos para no cometer errores:
+
+Por favor escribe las sentencias de manera correcta como se ve a continuacion:
+EJEMPLOS DE PARA ESCRIBIRLO CORRECTAMENTE:
+
+Para las clases:
+inicioclase
+finclase
+Para las funciones:
+iniciofuncion
+finfuncion
+
+Para declarar y asignar valores de variables:
+declara: ejemplo: "declara x entero"
+asigna: ejemplo: "asigna x = 7"
+
+Para condicion Do While:
+DoInicio
+cerrardowhile: ejemplo "cerrardowhile x > 3"
+
+Para condicion If Else:
+if: ejemplo "if x <= 10"
+elseif: ejemplo "elseif x > 20"
+else
+finif
+
+Para condicion Switch:
+switch: ejemplo "switch x"
+case variable: ejemplo "case 1", "case 2"
+finswitch
+
+Para condicion For:
+for: ejemplo "for x de 1 al 5 paso 1"
+finfor
+
+Para condicion While:
+while: ejemplo "while 5 < 20"
+finwhile
+
+Para MessageBox y WriteLine:
+messagebox
+writeline
+
+======
+
+EJEMPLOS DE MANERAS INCORRECTAS PARA ESCRIBIRLO:
+
+Para las clases:
+- inicioclase
+- finclase
+Para las funciones:
+iniciofuncion
+finfuncion
+
+Para declarar y asignar valores de variables:
+declara: ejemplo: "declara x enter"
+asigna: ejemplo: "asigna x - 7"
+
+Para condicion Do While:
+DoInicio: ejemplo "DoInicio segundapalabra"
+cerrardowhile: ejemplo "cerrardowhile x - 3"
+
+Para condicion If Else:
+if: ejemplo "if x - 10"
+elseif: ejemplo "elseif x = 20"
+else: ejemplo "else segundacondicion"
+finif: ejemplo "finif segundapalabra"
+
+Para condicion Switch:
+switch: ejemplo "switch x"
+case variable: ejemplo "caso 2"
+finswitch: ejemplo "finswitch segundapalabra"
+
+Para condicion For:
+for: ejemplo "for x d 1 a 5 pas X"
+finfor: ejemplo "finfor segundapalabra"
+
+Para condicion While:
+while: ejemplo "while 5 < 20"
+finwhile: ejemplo "finwhile algomas"
+
+Para MessageBox y WriteLine:
+messagebox
+writeline "writeline segunda palabra"
